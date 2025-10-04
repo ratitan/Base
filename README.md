@@ -1,7 +1,5 @@
 # Base
 Партфолио
-<!DOCTYPE HTML>
-<html="ru">
 <head>
   <link rel="stylesheet" href="дополнение.css">
   <meta charset = "utf-8">
@@ -20,4 +18,4 @@
   </div>
   <a href ="https://t.me/zaronotok12"><strong>это мой тг канал!</strong></a>
 </body>
-</html>
+
