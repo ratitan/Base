@@ -3,6 +3,11 @@
 <head>
   <link rel="stylesheet" href="дополнение.css">
   <meta charset = "utf-8">
+  <style>
+    body {
+      backround-color : blue;
+    }
+    </style>
 </head>
 <body>
   <title>база!</title>
