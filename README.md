@@ -1,7 +1,6 @@
 # Base
 Партфолио
 <head>
-  <link rel="stylesheet" href="дополнение.css">
   <meta charset = "utf-8">
   <style>
     body {
