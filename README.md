@@ -1,4 +1,4 @@
-backround-colorackround-color Base
+ Base
 партофолио 
 <head>
   <meta charset = "utf-8">
