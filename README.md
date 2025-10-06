@@ -1,4 +1,4 @@
-# Base
+backround-colorackround-color Base
 партофолио 
 <head>
   <meta charset = "utf-8">
@@ -17,7 +17,7 @@
     <ul>
       <li><h3>JavaScrip.</h3></li>
       <li><h3>HTML.</h3></li>
-      <li><h3>CSS.</h3>backround-color
+      <li><h3>CSS.</h3>
   </div>
   <a href ="https://t.me/zaronotok12"><strong>это мой тг канал!</strong></a>
   <img src ="https://i.pinimg.com/736x/80/27/a9/8027a93413211c1415c3dfae4ab13f2e.jpg">
