@@ -1,6 +1,4 @@
 # Base
-Партфолио
-<!DOCTYPE HTML>
 <html lang ="ru">
 <head>
   <meta charset = "utf-8">
